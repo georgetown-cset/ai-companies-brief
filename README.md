@@ -1,7 +1,7 @@
 # Overview
 
 The data in [ai_companies.csv](ai_companies.csv) is 
-in support of CSET's [Identifying AI-Related Companies](link here) data brief.
+in support of CSET's [Identifying AI-Related Companies](link here) data brief. [ai_companies.csv](ai_companies.csv) includes counts of selected companies’ AI-related scholarly publications, their publications in the proceedings of top AI conferences, their AI-related patent families with both applied and granted filings, and the number of graduates that each company is known to have hired recently from top U.S. AI PhD programs, as well as certain metadata related to each company. For more details, please refer to the [data brief](link here).
 
 We collected this data from five sources:
 
